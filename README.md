@@ -49,8 +49,8 @@ Generate Confusion Matrix, Classification Report, and test on new sample images.
 </br>
 
 ## PROGRAM
-### Developed By: K MADHAVA REDDY
-### Register Number: 212223240064
+### Developed By: MONISH N
+### Register Number: 212223240097
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
 from torchvision.models import VGG19_Weights
